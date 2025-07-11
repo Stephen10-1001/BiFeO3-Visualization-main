@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9aa8e455d10f2449185f98fc705a88c7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - atomPrefab: {fileID: 1794076034478693230, guid: 96e5d71bbba1e4e80bda6a584ed14934, type: 3}
+  - bondPrefab: {fileID: 3336844097969291107, guid: df28cc21283614b8ca61bb1f0a30ce6b, type: 3}
+  - dataFile: {fileID: 4900000, guid: aa467947c52cc4cd0b22eb458774948d, type: 3}
+  - atomsParent: {instanceID: 0}
+  - fe_o_bondsParent: {instanceID: 0}
+  - o_o_bondsParent: {instanceID: 0}
+  - bi_o_bondsParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
